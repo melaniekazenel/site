@@ -1,0 +1,9 @@
+name: "WebsiteTest"
+output_dir: "."
+navbar:
+  title: " Melanie Kazenel"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
